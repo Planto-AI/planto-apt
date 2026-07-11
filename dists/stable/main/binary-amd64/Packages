@@ -1,21 +1,5 @@
 Package: planto-desktop
 Architecture: all
-Version: 1.0.5
-Priority: optional
-Section: metapackages
-Maintainer: Planto AI <vikas@codingjr.online>
-Filename: pool/main/planto-desktop_1.0.5_all.deb
-Size: 21178848
-MD5sum: 21fb7df63fb0a506ab88b637b54ecc50
-SHA1: cdd2429c99c50eb61f8ddb206d303681396d3b1c
-SHA256: 5517b897f8c06e47c92a656cc38bbf144a30313ead2390bd8df39ef6e256cf31
-SHA512: fcd961277d462358d474dc5c199fa83af91f84196eb327532a4fb59e992dec149ea39b7d72cc5bf6feb1c38de5139627e919380c4b6a87e905910da719267044
-Description: PlantoOS desktop experience (themes, branding, Vani UI)
- Applies the PlantoOS look-and-feel and desktop configuration.
- Upgrading this package re-applies the UI scripts from /opt/planto.
-
-Package: planto-desktop
-Architecture: all
 Version: 1.0.6
 Priority: optional
 Section: metapackages
@@ -42,6 +26,22 @@ MD5sum: 944185550c2758f6e9e2d501890b2452
 SHA1: 7df77976f89c7ef5a09d53a945ab6178484170a5
 SHA256: a98717929d1ff2db96ed01d4948977208fb958966adcee835f4783ce2a259a1b
 SHA512: a54253a8acab52ce283eab32ca8ab9afc6ec060c4937080626eacf3379218f5bbbcee79d892c0bd15ebd040137881c33fed86014c91eba5830fbac6272348728
+Description: PlantoOS desktop experience (themes, branding, Vani UI)
+ Applies the PlantoOS look-and-feel and desktop configuration.
+ Upgrading this package re-applies the UI scripts from /opt/planto.
+
+Package: planto-desktop
+Architecture: all
+Version: 1.0.8
+Priority: optional
+Section: metapackages
+Maintainer: Planto AI <vikas@codingjr.online>
+Filename: pool/main/planto-desktop_1.0.8_all.deb
+Size: 28833412
+MD5sum: 1f5279a528a4d80a1c116476628ecc62
+SHA1: 10885a98c0c19fa8c1e8c9a4e63123598b7ba257
+SHA256: 3bd5170d77de645ae3c375970ec889ae319c41cfe817cc653629c087c2d6dd0c
+SHA512: e0afdefcb49cd348ca2528f6afc1e2aa43eab03ada77aa8c924e043664724d6d0ad344b00a67b037030bbbe6b3cc9be9641693024eea1cfd8a3726ab5df5eb94
 Description: PlantoOS desktop experience (themes, branding, Vani UI)
  Applies the PlantoOS look-and-feel and desktop configuration.
  Upgrading this package re-applies the UI scripts from /opt/planto.
