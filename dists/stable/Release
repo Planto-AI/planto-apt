@@ -1,0 +1,23 @@
+Architectures: amd64 all
+Codename: stable
+Components: main
+Date: Sat, 11 Jul 2026 08:44:57 +0000
+Label: PlantoOS
+Origin: PlantoOS
+Suite: stable
+MD5Sum:
+ 6a1ddc359a0a65df1d7b7733db5a894e              144 Release
+ 44dfc315b53ec7073174bfc1c780882a              707 main/binary-amd64/Packages
+ 951177ac63dff259976ccc8ef8cff2a5              502 main/binary-amd64/Packages.gz
+SHA1:
+ b4da2bf0bd609c318a470612c72c72417e61e0d8              144 Release
+ ca27bf693cccd6dc8ac690ec2e387734a07c427e              707 main/binary-amd64/Packages
+ 0cf84a9bd3795577c541d7a64a3ee520cdac7acd              502 main/binary-amd64/Packages.gz
+SHA256:
+ 08be9fccd3222781edfb0d0cfc0585963fb3a1ada86b0397159f7cb532fce3d1              144 Release
+ e0a808b6d2781bf452e27d3b624d3a6310b1038b6256f630ccdc3372f66304a3              707 main/binary-amd64/Packages
+ 4993078ebf4028f936ff9cba7f318bfa1dd38aac91b1496a92ef8bd0287c73c7              502 main/binary-amd64/Packages.gz
+SHA512:
+ d0fa6d2e2d7a442628b3e50170289cf77979b62b36381e77cc94ed7b08b5b5b425efadbb7c6e84ae0e7bb7d467f3ce756a0a053bb11e7c095d7bbe7a9f90b44d              144 Release
+ e2b3f90cabde4baf73ca94eda0aef9638c6bfc918910bef0637a67b651c9e76e194f9999577ca0813e01c911c8cca9bd50eb07c4da08c90121e008189827ad5b              707 main/binary-amd64/Packages
+ 1c99f7d9e5a845b6135cf14910a4d4624ddf1f815a09e7da6ae70f64f337398c324f557b85d1fb7465d0087ad091978521258ba39e6f44dd835ecf661ae4c8ad              502 main/binary-amd64/Packages.gz
