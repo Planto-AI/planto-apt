@@ -1,15 +1,15 @@
 Package: planto-desktop
 Architecture: amd64
-Version: 1.0.50
+Version: 1.0.51
 Priority: optional
 Section: metapackages
 Maintainer: Planto AI <vikas@codingjr.online>
-Filename: pool/main/planto-desktop_1.0.50_amd64.deb
-Size: 29304348
-MD5sum: 2d7cce8e04f0ae250a47356e13c4ea83
-SHA1: ac567b5e7d4dbe8df82b76f1d1512fae134d758e
-SHA256: 656ca8f2c388d1eb5ef2bdedeebb0cbce1b4749f93b2f0b0aa9b97be39bc6077
-SHA512: e0acf36f31d3d20f2c3f3ba4c2af5313320ada589c4932054ef0b23322da6df8d1378730bc78a425453bbfc508b50d0f71a67c89c00d24fab9ab35b52d581698
+Filename: pool/main/planto-desktop_1.0.51_amd64.deb
+Size: 29324646
+MD5sum: c439bd4c80e4e4b47614b2e92d29dc85
+SHA1: 744ef4398216370a95d7b99a40eb56829f14c494
+SHA256: 58367af352cbf48e2a0f08fa6d0f1723637c6688e0e19d7c841b724e8db04644
+SHA512: bd9228ffed93c904ac43d4eba1174aefd55f6e19ef469196fe8df86ad96a760535c9bc6a6ca24099945c67a3d96f2a5ea8903be5cf17aa5b91f6eb892d7dbada
 Description: PlantoOS desktop experience (themes, branding, Vani UI)
  Applies the PlantoOS look-and-feel and desktop configuration.
  Upgrading this package re-applies the UI scripts from /opt/planto.
