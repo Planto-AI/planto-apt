@@ -1,23 +1,23 @@
 Architectures: amd64 all
 Codename: stable
 Components: main
-Date: Sat, 25 Jul 2026 06:46:10 +0000
+Date: Sat, 25 Jul 2026 07:22:29 +0000
 Label: PlantoOS
 Origin: PlantoOS
 Suite: stable
 MD5Sum:
- 383bd2091d6786a7a1afbecc785d39ea              144 Release
- 9e2d1a13dcb90a2ce13f85e4e4987a16             2135 main/binary-amd64/Packages
- bec5208abdc3f9c94dbb221f7a398114              889 main/binary-amd64/Packages.gz
+ 2a45134e8289b6c79990d3a46653be84              144 Release
+ ea587ae60a7fd6fb9103d70aa729b463             2135 main/binary-amd64/Packages
+ bb748cf2cd88a63aaece370a3b6d928d              886 main/binary-amd64/Packages.gz
 SHA1:
- db36a3385c99d81f59a327579c4e7951754a5ba3              144 Release
- 75036d83fb761ccdbf90d7620909d81d63ae09a1             2135 main/binary-amd64/Packages
- 7c0a13378ee1e60f3cc68d3a26d5826526d293b3              889 main/binary-amd64/Packages.gz
+ a682f9c66ae6841d64a3857d99a8edf55f7eb174              144 Release
+ a8acabfdd513b25cd9686a6913f2a95e7b878e92             2135 main/binary-amd64/Packages
+ 1019bef9d5b816484fa3422370479ef53ca1dc0e              886 main/binary-amd64/Packages.gz
 SHA256:
- 7b64f76057bb9d3ad142ef81fd76d775cd2ec94b70ee86c830f789bc4f5086dc              144 Release
- 203c35797c80f5d97844e2011b1cadf87c043bb63947526c5f7e4c324247659c             2135 main/binary-amd64/Packages
- 5fb19279c767616b7564ae11155b0eb5486888b3e089f16a0ce68a8e0bc350e1              889 main/binary-amd64/Packages.gz
+ 94f9af71a5d50361aa3a7de8251beef6d80a717d2209eb4e70f2a078ff7b5bfe              144 Release
+ 5db3c1e85a7b026fed6114fb1c964384c328848c0f8051c1fd15b8ab75d9b87b             2135 main/binary-amd64/Packages
+ 64c757b9501caadaa39f5ccee1996b87ae7b41a3abbe367ad2555b02aa1bf1b4              886 main/binary-amd64/Packages.gz
 SHA512:
- 18b5cb4e105061ede15d374cae0dc680eb5db153d8163aa6de716df899de177c511fd9cd1a87d4f4b66dec3d4aa66db381799fb6a048078484ebe76e3559701f              144 Release
- 949dc089b28953dfc978ffa08949a21844de7d465030aa4d8ca5bae04292aef52912fe68c849933bf5c7088298c0720ee1082771517d190df717a232cbe43937             2135 main/binary-amd64/Packages
- d9b424e1e6672317c1c3765f44bfa51b4712a63a6bd619d5c926cdac34a6e122db515cae765b0581156d8cc093e51c0f5d819c795950f348554a6e77e0d2e26e              889 main/binary-amd64/Packages.gz
+ b837ccd0a6ce6aae36ed72a6be114b94ea397607d8a65e1df1331eec7d86354a241382c4fb1a1ca74aae5f8626a957c1f64dfb8ff411b970287afcea071103db              144 Release
+ 759dbb035b47d1d129b3042f9a4d63692d6a07cb432b2e7f9c8879cd2c2cae6c055f2c04e21cb3b7ed8b1f9e9f6dd0ab51ec03dbc494750fd771bb6acdf0c4d2             2135 main/binary-amd64/Packages
+ f50d9171cb444f7b85f2b89ca9515f4eac3e6d52370c611ec22c2288e389522a9b7a8390613e88002903e0b50361526693046d26296fefef7ebd86db0a98f1af              886 main/binary-amd64/Packages.gz
